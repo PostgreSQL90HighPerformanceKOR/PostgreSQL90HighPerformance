@@ -1,7 +1,7 @@
-PostgreSQL90HighPerformance
-===========================
+PostgreSQL 성능 최적화
+======================
 
-PostgreSQL90HighPerformance책의 오탈자 공지및 질문/답을 위한 레포입니다.
+PostgreSQL 성능 최적화 책의 오탈자 공지및 질문/답을 위한 레포입니다.
 
 책 구매는
 
